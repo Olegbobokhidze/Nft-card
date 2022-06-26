@@ -36,7 +36,7 @@ This is a simple NFT card page.
 
 This is my second challenge, i learned how to use display absolute for overlaying image with another image when we hover it.
 
-### Continued development
+### Personal Development
 
 This is only start, i am not going to stop, i'll do everything to improve myself.
 
